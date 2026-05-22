@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"time"
 
-	"layeh.com/gumble/gumble"
+	"github.com/DanaDynamics/gumble/gumble"
 )
 
 func main() {

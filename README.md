@@ -7,13 +7,13 @@ gumble is a [Mumble](https://mumble.info/) client implementation in Go
 ## Sub-projects
 
 - gumble ([docs](https://pkg.go.dev/layeh.com/gumble/gumble))
-    - Client library
+  - Client library
 - gumbleopenal ([docs](https://pkg.go.dev/layeh.com/gumble/gumbleopenal))
-    - [OpenAL](http://kcat.strangesoft.net/openal.html) audio system for gumble
+  - [OpenAL](http://kcat.strangesoft.net/openal.html) audio system for gumble
 - gumbleffmpeg ([docs](https://pkg.go.dev/layeh.com/gumble/gumbleffmpeg))
-    - [ffmpeg](https://www.ffmpeg.org/) audio source for gumble
+  - [ffmpeg](https://www.ffmpeg.org/) audio source for gumble
 - gumbleutil ([docs](https://pkg.go.dev/layeh.com/gumble/gumbleutil))
-    - Extras that can make working with gumble easier
+  - Extras that can make working with gumble easier
 
 ## Example
 
@@ -21,8 +21,8 @@ gumble is a [Mumble](https://mumble.info/) client implementation in Go
 package main
 
 import (
-  "layeh.com/gumble/gumble"
-  "layeh.com/gumble/gumbleutil"
+  "github.com/DanaDynamics/gumble/gumble"
+  "github.com/DanaDynamics/gumble/gumbleutil"
 )
 
 func main() {
@@ -39,9 +39,9 @@ func main() {
 ## Related projects
 
 - [barnard](https://layeh.com/barnard)
-    - terminal-based Mumble client
+  - terminal-based Mumble client
 - [piepan](https://layeh.com/piepan)
-    - an easy to use framework for writing Mumble bots using Lua
+  - an easy to use framework for writing Mumble bots using Lua
 
 ## License
 

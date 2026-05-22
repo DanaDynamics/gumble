@@ -8,9 +8,9 @@ import (
 	"sync"
 	"time"
 
+	"github.com/DanaDynamics/gumble/gumble/MumbleProto"
+	"github.com/DanaDynamics/gumble/gumble/varint"
 	"github.com/golang/protobuf/proto"
-	"layeh.com/gumble/gumble/MumbleProto"
-	"layeh.com/gumble/gumble/varint"
 )
 
 // DefaultPort is the default port on which Mumble servers listen.

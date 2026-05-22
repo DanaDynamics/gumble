@@ -9,9 +9,9 @@ import (
 	"sync/atomic"
 	"time"
 
+	"github.com/DanaDynamics/gumble/gumble/MumbleProto"
+	"github.com/DanaDynamics/gumble/gumble/varint"
 	"github.com/golang/protobuf/proto"
-	"layeh.com/gumble/gumble/MumbleProto"
-	"layeh.com/gumble/gumble/varint"
 )
 
 var (
