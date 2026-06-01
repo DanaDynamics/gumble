@@ -1,5 +1,7 @@
 github.com/DanaDynamics/gopus v0.0.0-20260522140324-145f278ae86a h1:CGb2Tiy7zMXf+OKfwfKopwnpHxFcflSR9q5m2iRtX9k=
 github.com/DanaDynamics/gopus v0.0.0-20260522140324-145f278ae86a/go.mod h1:lC0PMuuu9L7uinhdJlfyNzspAQ9Fx2Xkj/rJ4pKGoZA=
+github.com/DanaDynamics/gopus v0.0.0-20260601080253-b9036ffc8212 h1:MLLxxEBvVw9TgalZfKLq/liRIC4pI5tpNFXfxcpRHDg=
+github.com/DanaDynamics/gopus v0.0.0-20260601080253-b9036ffc8212/go.mod h1:lC0PMuuu9L7uinhdJlfyNzspAQ9Fx2Xkj/rJ4pKGoZA=
 github.com/dchote/go-openal v0.0.0-20171116030048-f4a9a141d372 h1:tz3KnXWtRZR0RWOfcMNOw+HHezWLQa7vfSOWTtKjchI=
 github.com/dchote/go-openal v0.0.0-20171116030048-f4a9a141d372/go.mod h1:74z+CYu2/mx4N+mcIS/rsvfAxBPBV9uv8zRAnwyFkdI=
 github.com/golang/protobuf v1.3.1 h1:YF8+flBXS5eO826T4nzqPrxfhQThhXl0YzfuUPu4SBg=
